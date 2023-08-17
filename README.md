@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=CgKaminski&theme=monokai" width=60% ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CgKaminski&theme=monokai" width="35%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=CgKaminski&theme=merko" width=60% ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CgKaminski&theme=merko" width="35%">
